@@ -1,1 +1,10 @@
+## Hey 👋, This is Ben Wegodsky
+[![Gmail Badge](https://img.shields.io/badge/-bwegodsky@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bwegodsky@gmail.com)](mailto:bwegodsky@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/benwegodsky/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/benwegodsky//)](https://www.linkedin.com/in/https://www.linkedin.com/in/benwegodsky//) [![Github Badge](https://img.shields.io/badge/-benwego-grey?style=flat&logo=github&logoColor=white&link=https://github.com/benwego/)](https://www.github.com/benwego/) <p align='left'>My name is Ben I’m 25 years old and I’m from New Jersey. I graduated from Rutgers University with a degree in Communications, where I developed a strong understanding of PR and marketing strategies. I spent the last couple of years gaining experience in digital marketing and content creation. I’ve always wanted to work in some form of media because of my love for pop culture and brands. 
+My experience in marketing extends to when I was a Marketing Intern at an Events Group, email campaigns and event promotions. Sheesh Media as a journalist and content creator, where I was responsible for creating articles and content ideas around music and pop culture. More recently, I’ve been building on my data-driven marketing skills through becoming a Business Intelligence Analyst through TripleTen bootcamp. 
+</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1tOVGicpYnDWC6Oo5WpzWAuhIPFbVU3K-yHShcXROihs/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=benwego alt=benwego /> </p>
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=benwego&show_icons=true&include_all_commits=true)](https://github.com/benwego/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwego&layout=compact)](https://github.com/benwego/github-readme-stats)
